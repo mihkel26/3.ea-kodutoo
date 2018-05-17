@@ -1,3 +1,7 @@
+Chrome extension, mis muudab Githubi heleda kujunduse tumedaks.
+
+_________________________________________________________________
+
 # 3. kodutöö – Chrome extension
 
 Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetud. Soovi korral võib ka teha Firefox'ile.
