@@ -1,0 +1,83 @@
+body, .drag-and-drop, .timeline-comment, .discussion-timeline-actions, .repohead.experiment-repo-nav,
+.MarketplaceSideNav, .UnderlineNav.user-profile-nav.js-sticky.top-0, .select-menu-filters, .select-menu-header,
+.profile-timeline-year-list.bg-white.float-right.js-profile-timeline-year-list.js-sticky.col-2.pl-5,
+.select-menu-tabs a.selected, .user-profile-sticky-bar::after{
+    background-color: #333333 !important;
+    color: white !important;
+}
+
+.pagehead-tabs-item.selected {
+    background-color: #333333 !important;
+}
+
+.text-gray.mt-3.mb-0, .mr-2 {
+    color: azure !important;
+}
+
+.button {
+    background-color: #676667 !important;
+}
+
+.pl-c {
+    color: chartreuse !important;
+}
+
+.boxed-group-inner, .Box-header, .markdown-body pre, .filter-repos.filter-bar, .boxed-group > h3,
+.boxed-group.heading, .more-repos-link {
+    background-color: #7e7c7b !important;
+}
+
+table, th, td, .table.files, .readme .markdown-body, .readme .plain, .article, .timeline-comment-header.clearfix, .Box,
+.input-contrast {
+    background-color: darkgrey !important;
+}
+
+p, a, .col-11.text-gray-dark.mr-2, .text-emphasized, .reponav-item, .reponav-item, .octicon, .Counter, .text-bold.repo,
+.repo-and-owner.css-truncate-target, .css-truncate .css-truncate-target, .btn-link, .f6.text-gray.mt-4,
+.f6.link-gray.mt-2.d-inline-block, .f6.text-gray-light.no-wrap.ml-1, .tabnav-tab, .text-gray-light,
+.text-gray, table.files, td.age, .link-gray-dark.no-underline.text-bold.wb-break-all, .text-gray, h1,
+.js-select-button.css-truncate-target, .text-gray-dark, .btn.btn-sm.new-pull-request-btn,
+.select-menu-header .select-menu-title, .select-menu-divider {
+    color: white !important;
+}
+
+.tabnav-tabs, .bg-white, .js-select-button.css-truncate-target {
+    color: grey !important;
+}
+
+.social-count {
+    background-color: black !important;
+    color: white !important;
+}
+
+.table-list-header, .private, .mini-repo-list-item, .btn.btn-sm.btn-with-count.select-menu-button.js-menu-target {
+    background-color: grey !important;
+}
+
+.btn {
+    color: #ffffff !important;
+    background: darkgrey linear-gradient(-180deg, #fafbfc 0%, #303030 90%) !important;
+}
+
+.commit-tease {
+    background-color: grey !important;
+    color: white !important;
+}
+
+.link-gray-dark {
+    color: white !important;
+}
+
+.file-info, .file-header, .commit-tease-contributors, ul.dropdown-menu.dropdown-menu-sw,
+.btn.btn-outline.f6.mt-2.float-right.d-none.d-md-inline-block, .tabnav-tab.selected, .reponav-item.selected {
+    background-color: darkgrey !important;
+}
+
+.Box-row--focus-gray.navigation-focus {
+    background-color: #d5d5d5 !important;
+}
+
+.orghead, .btn-outline, .branch-infobar {
+    background-color: black !important;
+}
+
