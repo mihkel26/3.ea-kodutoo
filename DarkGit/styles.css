@@ -1,7 +1,7 @@
 body, .drag-and-drop, .timeline-comment, .discussion-timeline-actions, .repohead.experiment-repo-nav,
 .MarketplaceSideNav, .UnderlineNav.user-profile-nav.js-sticky.top-0, .select-menu-filters, .select-menu-header,
 .profile-timeline-year-list.bg-white.float-right.js-profile-timeline-year-list.js-sticky.col-2.pl-5,
-.select-menu-tabs a.selected, .user-profile-sticky-bar::after{
+.select-menu-tabs a.selected, .user-profile-sticky-bar::after, .pr-toolbar, .diffbar{
     background-color: #333333 !important;
     color: white !important;
 }
@@ -23,12 +23,13 @@ body, .drag-and-drop, .timeline-comment, .discussion-timeline-actions, .repohead
 }
 
 .boxed-group-inner, .Box-header, .markdown-body pre, .filter-repos.filter-bar, .boxed-group > h3,
-.boxed-group.heading, .more-repos-link {
+.boxed-group.heading, .more-repos-link, .range-editor, .compare-pr-placeholder, .new-discussion-timeline
+.previewable-comment-form .comment-form-head.tabnav, .blankslate {
     background-color: #7e7c7b !important;
 }
 
 table, th, td, .table.files, .readme .markdown-body, .readme .plain, .article, .timeline-comment-header.clearfix, .Box,
-.input-contrast {
+.input-contrast, .branch-action-body {
     background-color: darkgrey !important;
 }
 
@@ -37,7 +38,7 @@ p, a, .col-11.text-gray-dark.mr-2, .text-emphasized, .reponav-item, .reponav-ite
 .f6.link-gray.mt-2.d-inline-block, .f6.text-gray-light.no-wrap.ml-1, .tabnav-tab, .text-gray-light,
 .text-gray, table.files, td.age, .link-gray-dark.no-underline.text-bold.wb-break-all, .text-gray, h1,
 .js-select-button.css-truncate-target, .text-gray-dark, .btn.btn-sm.new-pull-request-btn,
-.select-menu-header .select-menu-title, .select-menu-divider {
+.select-menu-header .select-menu-title, .select-menu-divider, .breadcrumb strong.final-path {
     color: white !important;
 }
 
@@ -77,7 +78,7 @@ p, a, .col-11.text-gray-dark.mr-2, .text-emphasized, .reponav-item, .reponav-ite
     background-color: #d5d5d5 !important;
 }
 
-.orghead, .btn-outline, .branch-infobar {
+.orghead, .btn-outline, .branch-infobar, .commit-ref {
     background-color: black !important;
 }
 
