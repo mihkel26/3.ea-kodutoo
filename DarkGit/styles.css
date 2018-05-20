@@ -24,7 +24,8 @@ body, .drag-and-drop, .timeline-comment, .discussion-timeline-actions, .repohead
 
 .boxed-group-inner, .Box-header, .markdown-body pre, .filter-repos.filter-bar, .boxed-group > h3,
 .boxed-group.heading, .more-repos-link, .range-editor, .compare-pr-placeholder, .new-discussion-timeline
-.previewable-comment-form .comment-form-head.tabnav, .blankslate, .full-commit .commit-meta {
+.previewable-comment-form .comment-form-head.tabnav, .blankslate, .full-commit .commit-meta,
+.commits-list-item.navigation-focus {
     background-color: #7e7c7b !important;
 }
 
@@ -56,6 +57,7 @@ p, a, .col-11.text-gray-dark.mr-2, .text-emphasized, .reponav-item, .reponav-ite
 }
 
 .btn {
+    border: 0px solid !important;
     color: #ffffff !important;
     background: darkgrey linear-gradient(-180deg, #fafbfc 0%, #303030 90%) !important;
 }
@@ -63,6 +65,10 @@ p, a, .col-11.text-gray-dark.mr-2, .text-emphasized, .reponav-item, .reponav-ite
 .commit-tease {
     background-color: grey !important;
     color: white !important;
+}
+
+.AvatarStack--right .avatar {
+    border-left:1px solid #333333 !important;
 }
 
 .link-gray-dark {
